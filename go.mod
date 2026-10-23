@@ -3,7 +3,7 @@ module gbenson.net/go/microfont
 go 1.26.0
 
 require (
-	golang.org/x/image v0.38.0
+	golang.org/x/image v0.41.0
 	gotest.tools/v3 v3.5.2
 )
 
